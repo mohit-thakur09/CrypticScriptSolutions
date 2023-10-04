@@ -24,10 +24,10 @@ int main()
 {
     int a=3,b=6;
     //call by value
-    //int c = fun1(a,b);
+    int c = fun1(a,b);
 
     //call by address
-    //fun2(&a,&b);
+    fun2(&a,&b);
 
     //call by refernce
     fun3(a,b);
