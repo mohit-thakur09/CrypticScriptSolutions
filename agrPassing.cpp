@@ -1,4 +1,4 @@
-/*
+
 #include<stdio.h>
 
 int fun1(int x,int y)
@@ -35,4 +35,4 @@ int main()
     printf("%d",a);
     return 0;
 }
-*/
+
