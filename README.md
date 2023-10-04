@@ -1,6 +1,7 @@
-# CrypticScriptSolutions : C Language Tricky Programs
+# CrypticScriptSolutions : C Language Tricky Programs and File Handling
 
-This repository contains a collection of C language programs that are not only named in a clever and tricky manner but also focus on fundamental problem-solving concepts using basic data structures.
+This repository contains a collection of C language programs that are not only named in a clever and tricky manner but also focus on fundamental problem-solving concepts using basic data structures and file handling.
+
 
 ## Programs List
 
@@ -27,6 +28,8 @@ This repository contains a collection of C language programs that are not only n
 11. **Calculate Exponential**: Calculate the exponential of a number.
 
 12. **Vowel Identification**: Identify and count vowels in a given string.
+
+13. **File Handling Examples**: Examples of file handling in C, including reading from and writing to files.
 
 ## Getting Started
 
@@ -60,4 +63,4 @@ Contributions to this repository are welcome. If you have additional tricky C pr
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-Enjoy exploring and solving tricky problems in C language! 🚀🔍
+Enjoy exploring and solving tricky problems in C language, including file handling examples! 🚀🔍📂
